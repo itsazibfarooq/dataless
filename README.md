@@ -2,7 +2,7 @@
 
 [![PyPI version](https://badge.fury.io/py/your-library.svg)](https://badge.fury.io/py/your-library)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python Versions](https://img.shields.io/pypi/pyversions/your-library.svg)](https://pypi.org/project/dataless/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/your-library.svg)](https://pypi.org/project/dataless/2.0.4)
 
 Dataless is a python library implementation of the dataless neural network. This concept was introduced by the Alkhouri et.al in [this work](https://arxiv.org/pdf/2203.08209). This concept is mounmental achievement, as the work introduces a way to formulate the NP-hard problems as a differentiable function. 
 
