@@ -79,3 +79,32 @@ dnn.plot()
 `plot()` provide a quick way to visualize the graph.
 
 ![plot](https://raw.githubusercontent.com/itsazibfarooq/dataless/main/images/plot.png)
+
+
+## 📞 Contact Us
+If you have any questions, suggestions, or issues, feel free to reach out:
+
+- **GitHub Issues**: [Report a Bug or Request a Feature](https://github.com/itsazibfarooq/dataless/issues)
+- **Email**: [azibfarooq10@gmail.com](mailto:azibfarooq10@gmail.com)
+- **GitHub Repository**: [Dataless on GitHub](https://github.com/itsazibfarooq/dataless)
+
+We’d love to hear from you! 🚀
+
+---
+
+## 🤝 Contributing
+We welcome contributions from the community! To contribute:
+
+1. **Fork** the repository.
+2. **Clone** your fork to your local machine.
+3. Create a new **branch** for your feature or bug fix.
+4. **Commit** your changes.
+5. **Push** the branch to your fork.
+6. Create a **pull request** from your fork to the `main` branch of the original repository.
+
+Please make sure to:
+- Follow the coding style of the project.
+- Write tests for new features or bug fixes.
+- Ensure all tests pass before submitting a pull request.
+
+We appreciate your help in making this project better! 🙌

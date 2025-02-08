@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="dataless",
-    version="2.0.2",
+    version="2.0.4",
     author="Azib Farooq",
     author_email="azibfarooq10@gmail.com",
     description="Library for Implementation of the dataless Neural Network for range of NP-hard problems",
