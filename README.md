@@ -19,7 +19,7 @@ The dataless library expects networkx type graphs, which are either stored in pi
 
 dNN is converging the f(\theta) using backpropogation, and following equation shows forward pass of the dNN. 
 
-![f(\theta)](./images/f(theta).png)
+![f(\theta)](https://raw.githubusercontent.com/itsazibfarooq/dataless/main/images/f(theta).png)
 
 ---
 
@@ -78,4 +78,4 @@ dnn.plot()
 
 `plot()` provide a quick way to visualize the graph.
 
-![plot](./images/plot.png)
+![plot](https://raw.githubusercontent.com/itsazibfarooq/dataless/main/images/plot.png)
